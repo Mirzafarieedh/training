@@ -1,4 +1,4 @@
-# Training Arc
+# Training
 
 Execution-focused daily training in:
 - Python
